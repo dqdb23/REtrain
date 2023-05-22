@@ -6,8 +6,8 @@ includelib \masm32\lib\kernel32.lib
 includelib \masm32\lib\shell32.lib
 
 .data
-    inputFile db "D:\masm32\thuchanh\input.txt",0
-    outputFileName db "D:\masm32\thuchanh\output.txt",0
+    inputFile db "input.txt",0
+    outputFileName db "output.txt",0
 	error db "ERRORRRRRRRRRRRRRRRRR!",0
     bufferSize equ 100000
     buffer db bufferSize dup (?)
