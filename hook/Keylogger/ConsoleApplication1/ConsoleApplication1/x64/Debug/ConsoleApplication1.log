@@ -1,0 +1,7 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\84824\Desktop\RE\hook\Keylogger\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(29,30): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\84824\Desktop\RE\hook\Keylogger\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(42,47): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\84824\Desktop\RE\hook\Keylogger\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(58,47): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\84824\Desktop\RE\hook\Keylogger\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(32,13): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\84824\Desktop\RE\hook\Keylogger\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(121,12): warning C4244: 'argument': conversion from 'LPARAM' to 'unsigned int', possible loss of data
+C:\Users\84824\Desktop\RE\hook\Keylogger\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(128,13): warning C4101: 'ModuleHandleA': unreferenced local variable

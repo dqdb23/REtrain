@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\84824\Desktop\RE\hook\Keylogger\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(8,11): warning C4101: 'v3': unreferenced local variable
+C:\Users\84824\Desktop\RE\hook\Keylogger\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(14,10): warning C4101: 'Str1': unreferenced local variable
+C:\Users\84824\Desktop\RE\hook\Keylogger\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(118,13): warning C4101: 'ModuleHandleA': unreferenced local variable
+  ConsoleApplication1.vcxproj -> C:\Users\84824\Desktop\RE\hook\Keylogger\ConsoleApplication1\Debug\ConsoleApplication1.exe
